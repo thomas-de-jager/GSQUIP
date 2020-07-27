@@ -24,4 +24,4 @@ Made by TdJ 20/07/2020
 # How to use the program:
 Clone/download the repository as a zip file. Extract and run compareGSresultsUserInput.exe in the Executable folder.
 Program might not work the first time (due to permissions you have to allow for Windows).
-Program should open a terminal, ask a few questions for efficiency and then you can insert you Google Search queries by copy-pasting the url to the terminal, when requested.
+Program should open a terminal, ask a few questions for efficiency and then you can insert your Google Search queries by copy-pasting the url to the terminal, when requested.
