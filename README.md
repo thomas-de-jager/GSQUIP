@@ -24,3 +24,6 @@ Made by TdJ 20/07/2020
 3) Run compareGSresultsUserInput.exe in the Executable folder.
 4) Program might not work the first time (due to permissions you have to allow for Windows).
 5) Program should open a terminal, ask a few questions for efficiency and then you can insert your Google Search queries by copy-pasting the url to the terminal, when requested (try e.g. https://scholar.google.nl/scholar?hl=en&as_sdt=0%2C5&q=test&btnG= and another search query).
+6) Program will open a tab for each search query and analyse the amount of pages specified by the user.
+7) All titles will be written to corresponding text files in the same folder.
+8) Results will be printed in terminal.
